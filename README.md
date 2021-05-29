@@ -3,7 +3,7 @@
 <img width="572" alt="Screenshot 2021-05-29 200207" src="https://user-images.githubusercontent.com/81208207/120085666-4b29e980-c104-11eb-9baa-9d88e29f5473.png">
 
 ### Latihan 2
-
+<img width="571" alt="Screenshot 2021-05-29 200046" src="https://user-images.githubusercontent.com/81208207/120085762-0d799080-c105-11eb-93f6-0977e3714f5e.png">
 
 ### Latihan 3
 
